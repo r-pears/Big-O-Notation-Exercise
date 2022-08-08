@@ -1,4 +1,4 @@
-# Simplifying Expressions
+# Part 1 - Simplifying Expressions
 
 ## 1.
 O(n + 10) => O(n)
