@@ -1,3 +1,6 @@
+/** Part 2 - Calculating Time Complexity
+ */
+
 /** 1. */
 function logUpTo(n) {
   for (let i = 1; i <= n; i++){
